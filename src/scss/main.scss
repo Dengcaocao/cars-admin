@@ -1,0 +1,22 @@
+@import "./element-ui-from.scss";
+// 主题色
+$themeColor-text: #666;
+.flex{
+    display: flex;
+}
+.f_center{
+    justify-content: center;
+    align-items: center;
+}
+.f_between{
+    justify-content: space-between;
+}
+.f_align{
+    align-items: center;
+}
+.f_around{
+    justify-content: space-around;
+}
+.f_end{
+    justify-content: flex-end;
+}
